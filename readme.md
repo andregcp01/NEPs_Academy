@@ -4,8 +4,9 @@
 ## Python Mastery Bootcamp :construction:
 * [Primeiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Primeiro_Programa/main.py)
 * [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Segundo_Programa/main.py)
+* [Terceiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/3_Terceiro_Programa/main.py)
 
 ## Exercícios de Programação :construction:
 * Python:
-	* [Olá NEPs Academy!]()
-	* [Soma fácil]()
+	* [Olá NEPs Academy!](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/1_Ol%C3%A1_NEPs_Academy!/main.py)
+	* [Soma fácil](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/2_Soma_F%C3%A1cil/main.py)
