@@ -15,3 +15,17 @@ v1 = -3
 print("O resultado da soma de {0} + {1} = {2}".format(V1, v1, V1 + v1)) # a caisa alta IMPORTA, V1 e v1, são duas coisas diferentes
                                                                         # as {} (chaves) respeitam a ordem das variáveis que criamos
 
+X2 = 4
+Y2 = 3
+
+print("O valor da divisão {0} : {1} = {2:.2f}".format(X2, Y2, X2 / Y2)) # o comando {:.2f} limita a quantidade de casas decimais
+
+print("O valor da divisão {0} : {1} = {2:.4f}".format(X2, Y2, X2 / Y2)) # o comando {:.4f} aqui foram 4
+
+nome = "Luiza Solange"
+idade = 60
+
+print(f"Olá {nome}! Você tem {idade} anos de idade!") # para "puxar" strings existe a necessidade de "f" antes do texto
+
+print("NEPs", end=" ") # o "end" faz com que o próximo "comando" continue na mesma linha
+print("Academy!")

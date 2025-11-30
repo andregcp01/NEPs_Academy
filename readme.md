@@ -6,5 +6,6 @@
 * [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Segundo_Programa/main.py)
 
 ## Exercícios de Programação :construction:
-* [Olá NEPs Academy!]()
-* [Soma fácil]()
+* Python:
+	* [Olá NEPs Academy!]()
+	* [Soma fácil]()
