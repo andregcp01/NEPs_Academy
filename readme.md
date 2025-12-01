@@ -5,6 +5,7 @@
 * [Primeiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Primeiro_Programa/main.py)
 * [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Segundo_Programa/main.py)
 * [Terceiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/3_Terceiro_Programa/main.py)
+* [Quarto Program](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/4_Quarto_Programa/main.py)
 
 ## Exercícios de Programação :construction:
 * Python:
