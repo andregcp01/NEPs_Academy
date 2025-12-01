@@ -1,6 +1,6 @@
 # texto interativo
 print("Vamos lá meu joinha, aperte os botões do Flíper para mexer a bolinha\n")
-print("Lembando que eles só recebem valos 0 e 1, 0 para mover a esquerda e 1 para mover a direita")
+print("Lembando que eles só recebem os valores 0 e 1, 0 para mover a esquerda e 1 para mover a direita")
 
 # entrada (totalmente copiada do exercício)
 A, B = map(int, input().split())
