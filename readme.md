@@ -2,8 +2,8 @@
 <p align="justify"> O intuito desde repositório é "treinar" e me habituar novamente com os comandos do git. Sempre que eu fizer uma nova atividade, ou aula, na NEPs Academy, eu irei adicioná-lo, porque, assim, eu posso ver a minha progressão individual e, futuramente, eu poderei acessar as aulas antigas, através de "hyperlinks", em caso de dúvidas.. Por enquanto não tem muita coisa.. :fist:.</p>
 
 ## Python Mastery Bootcamp :construction:
-* [Primeiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Primeiro_Programa/main.py)
-* [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Segundo_Programa/main.py)
+* [Primeiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/1_Primeiro_Programa/main.py)
+* [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/2_Segundo_Programa/main.py)
 * [Terceiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/3_Terceiro_Programa/main.py)
 * [Quarto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/4_Quarto_Programa/main.py)
 
