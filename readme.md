@@ -6,11 +6,12 @@
 * [Segundo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/2_Segundo_Programa/main.py)
 * [Terceiro Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/3_Terceiro_Programa/main.py)
 * [Quarto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/4_Quarto_Programa/main.py)
-* [Quinto Programa]()
+* [Quinto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/5_Quinto_Programa/main.py)
 
 ## Exercícios de Programação :white_check_mark:
 * Python:
 	* [Olá NEPs Academy!](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/1_Ol%C3%A1_NEPs_Academy!/main.py)
 	* [Soma fácil](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/2_Soma_F%C3%A1cil/main.py)
 	* [Divisão até três casas decimais](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/3_Divis%C3%A3o_at%C3%A9_tr%C3%AAs_casas_decimais/main.py)
+	* [Média Inteira](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/4_M%C3%A9dia_Inteira/main.py)
 	
