@@ -12,7 +12,7 @@ print("O valor de X + Y = {}".format(X + Y)) # as {} (chaves) puxam o valor .for
 V1 = 5
 v1 = -3
 
-print("O resultado da soma de {0} + {1} = {2}".format(V1, v1, V1 + v1)) # a caisa alta IMPORTA, V1 e v1, são duas coisas diferentes
+print("O resultado da soma de {0} + {1} = {2}".format(V1, v1, V1 + v1)) # a caixa alta IMPORTA, V1 e v1, são duas coisas diferentes
                                                                         # as {} (chaves) respeitam a ordem das variáveis que criamos
 
 X2 = 4
