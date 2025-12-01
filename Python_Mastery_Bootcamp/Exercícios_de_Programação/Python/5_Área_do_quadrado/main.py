@@ -6,6 +6,7 @@ L = input("L = ")
 
 # conversão da entrada para um número inteiro
 L = int(L)
+# L = int(input()), resumo
 
 # cálculo da área (m²)
 A = L * L
