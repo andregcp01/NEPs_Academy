@@ -1,6 +1,6 @@
 # entrada de dados
 A = input("Primeiro número, A = ")
-B = input("Segundd número, B = ")
+B = input("Segundo número, B = ")
 
 # conversões das entradas
 A = int(A)
