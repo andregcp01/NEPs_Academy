@@ -20,5 +20,5 @@
 	* [Flíper](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/07_Fl%C3%ADper/main.py)
 	* [Ímpar ou Par](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/08_Par_ou_%C3%ADmpar/main.py)
 	* [Bondinho](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/09_Bondinho/main.py)
-	* [Aprovado, Reprovado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/10_Aprovado_Reprovado/main.py)
+	* [Aprovado ou Reprovado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/10_Aprovado_Reprovado/main.py)
 	* [Gangorra](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/11_Gangorra/main.py)
