@@ -12,7 +12,7 @@ A = P1 * C1
 B = P2 * C2
 # peso da criança 2 * o comprimento da gangorra 2
 
-# sulução
+# solução
 if A > B:
     print("A criança está na posição -1!\n")
 elif A < B:
