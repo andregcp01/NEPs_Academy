@@ -8,6 +8,7 @@
 * [Quarto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/04_Quarto_Programa/main.py)
 * [Quinto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/05_Quinto_Programa/main.py)
 * [Sexto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/06_Sexto_Programa/main.py)
+* [Sétimo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/07_S%C3%A9timo_Programa/main.py)
 
 ## Exercícios de Programação :white_check_mark:
 * Python:
