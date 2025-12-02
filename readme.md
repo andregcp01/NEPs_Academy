@@ -10,7 +10,10 @@
 * [Sexto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/06_Sexto_Programa/main.py)
 * [Sétimo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/07_S%C3%A9timo_Programa/main.py)
 
+<details>
+<summary>
 ## Exercícios de Programação :white_check_mark:
+</summary>
 * Python:
 	* [Olá NEPs Academy!](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/01_Ol%C3%A1_NEPs_Academy!/main.py)
 	* [Soma fácil](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/02_Soma_F%C3%A1cil/main.py)
@@ -24,3 +27,4 @@
 	* [Aprovado ou Reprovado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/10_Aprovado_Reprovado/main.py)
 	* [Gangorra](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/11_Gangorra/main.py)
 	* [Zerinho ou Um](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/12_Zerinho_ou_um/main.py)
+</details>
