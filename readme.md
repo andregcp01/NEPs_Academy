@@ -12,7 +12,7 @@
 
 ## Exercícios de Programação :white_check_mark:
 
-* Python: <details>
+* Python: <details> <summary> Lista de exercícios </summary>
 	* [Olá NEPs Academy!](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/01_Ol%C3%A1_NEPs_Academy!/main.py)
 	* [Soma fácil](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/02_Soma_F%C3%A1cil/main.py)
 	* [Divisão até três casas decimais](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/03_Divis%C3%A3o_at%C3%A9_tr%C3%AAs_casas_decimais/main.py)
