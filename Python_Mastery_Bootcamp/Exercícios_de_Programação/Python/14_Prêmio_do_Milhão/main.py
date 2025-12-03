@@ -1,27 +1,30 @@
-# quantidades de dias
-A = int(input())
+# quantidade de entradas, quantidade de linhas
+N = input()
+N = int(N)
+
+# lista vazia para armazenar os dados
+L = []
 
 # contador de dias
-B = 0
-
-# acessos por dia
 C = 0
 
 # total de acessos
-D = 0
+T = 0
 
-# aqui é uma repetição, se "D" não atingir a quantidade de acessos
-# necessárias, a gente vai lançar uma nova linha, ou seja, um novo
-# input A
-for i in range(A):
-    C = C + int(input())
-    D = D + C
-    B = B + 1
-    # aqui o programa vai verificar se ele já atingiu o objetivo, a
-    # quantidade de visualizações
-    if D >= 1000000:
-        break
+# aqui vai ser a repetição e a análise do dados
+for i in range(N):
+    # V irá receber o valor da nova entrada
+    V = int(input())
+    # irá adicionar V a lista L
+    L.append(V)
+    # se o valor de T for menor do que 1000000, ele irá adicionar +1 em C
+    if T < 1000000:
+        T = T + V
+        C = C + 1
+        # se o valor T alcançar o valor estimado, ele não adicionará +1 em C
+        if T >= 1000000:
+            C = C + 0
 
-# o que a gente realmente quer saber é quantos dias se passaram até 
-# atingir o objetivo, então o importante aqui é o "B"
-print(B)
+# quantidade de dias que levaram até atingir o objetivo
+print(C)
+print(L)
