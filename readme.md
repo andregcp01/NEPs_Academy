@@ -27,5 +27,6 @@
 	* [Gangorra](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/11_Gangorra/main.py)
 	* [Zerinho ou Um](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/12_Zerinho_ou_um/main.py)
 	* [Soma dos elementos](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/13_Soma_dos_elementos/main.py)
-	* [Prêmio do Milhão]()
+	* [Prêmio do Milhão](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/14_Pr%C3%AAmio_do_Milh%C3%A3o/main.py)
+	* [Lâmpadas](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/15_L%C3%A2mpadas/main.py)
 </details>
