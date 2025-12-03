@@ -9,6 +9,7 @@
 * [Quinto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/05_Quinto_Programa/main.py)
 * [Sexto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/06_Sexto_Programa/main.py)
 * [Sétimo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/07_S%C3%A9timo_Programa/main.py)
+* [Oitavo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/08_Oitavo_Programa/main.py)
 
 ## Exercícios de Programação :white_check_mark:
 
@@ -25,4 +26,6 @@
 	* [Aprovado ou Reprovado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/10_Aprovado_Reprovado/main.py)
 	* [Gangorra](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/11_Gangorra/main.py)
 	* [Zerinho ou Um](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/12_Zerinho_ou_um/main.py)
+	* [Soma dos elementos](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/13_Soma_dos_elementos/main.py)
+	* [Prêmio do Milhão]
 </details>
