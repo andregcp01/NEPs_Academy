@@ -10,6 +10,7 @@
 * [Sexto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/06_Sexto_Programa/main.py)
 * [Sétimo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/07_S%C3%A9timo_Programa/main.py)
 * [Oitavo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/08_Oitavo_Programa/main.py)
+* []()
 
 ## Exercícios de Programação :white_check_mark:
 
@@ -31,6 +32,7 @@
 	* [Lâmpadas](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/15_L%C3%A2mpadas/main.py)
 	* [Repetir x Vezes](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/16_Repetir_x_vezes/main.py)
 	* [Área da Circunferência](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/17_%C3%81rea_da_circunfer%C3%AAncia/main.py)
+	* []()
 </details>
 
 ## Questões personalizadas :bomb:
