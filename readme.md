@@ -18,7 +18,7 @@
 	* [Soma fácil](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/02_Soma_F%C3%A1cil/main.py)
 	* [Divisão até três casas decimais](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/03_Divis%C3%A3o_at%C3%A9_tr%C3%AAs_casas_decimais/main.py)
 	* [Média Inteira](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/04_M%C3%A9dia_Inteira/main.py)
-	* [Área do quadrado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/05_%C3%81rea_do_quadrado/main.py)
+	* [Área do Quadrado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/05_%C3%81rea_do_quadrado/main.py)
 	* [Positivo, Negativo ou Nulo](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/06_Positivo_Negativo_Nulo/main.py)
 	* [Flíper](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/07_Fl%C3%ADper/main.py)
 	* [Ímpar ou Par](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/08_Par_ou_%C3%ADmpar/main.py)
@@ -26,15 +26,20 @@
 	* [Aprovado ou Reprovado](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/10_Aprovado_Reprovado/main.py)
 	* [Gangorra](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/11_Gangorra/main.py)
 	* [Zerinho ou Um](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/12_Zerinho_ou_um/main.py)
-	* [Soma dos elementos](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/13_Soma_dos_elementos/main.py)
+	* [Soma dos Elementos](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/13_Soma_dos_elementos/main.py)
 	* [Prêmio do Milhão](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/14_Pr%C3%AAmio_do_Milh%C3%A3o/main.py)
 	* [Lâmpadas](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/15_L%C3%A2mpadas/main.py)
-	* [Repetir x vezes](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/16_Repetir_x_vezes/main.py)
-	* [Área da circunferência](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/17_%C3%81rea_da_circunfer%C3%AAncia/main.py)
+	* [Repetir x Vezes](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/16_Repetir_x_vezes/main.py)
+	* [Área da Circunferência](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/17_%C3%81rea_da_circunfer%C3%AAncia/main.py)
 </details>
 
 ## Questões personalizadas :bomb:
 
 * Python : <details> <summary> Lista de questões </summary>
-	* [Questão 1]()
+	* [Operações matemáticas simples](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/01_Opera%C3%A7%C3%B5es_matem%C3%A1ticas_simples/main.py)
+	* [Checagem par ou ímpar](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/02_Checagem_%C3%ADmpar_ou_par/main.py)
+	* [A maior, menor ou igual a B](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/03_A_maior_menor_ou_igual_B/main.py)
+	* [Conversão de inputs em lista](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/04_Convers%C3%A3o_de_%20inputs_em_lista/main.py)
+	* [Conversão de inputs em lista condicional](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/05_Convers%C3%A3o_de_inputs_em_lista_condicional/main.py)
+	* []()
 </details>
