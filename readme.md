@@ -40,5 +40,5 @@
 	* [Checagem par ou ímpar](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/02_Checagem_%C3%ADmpar_ou_par/main.py)
 	* [A maior, menor ou igual a B](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/03_A_maior_menor_ou_igual_B/main.py)
 	* [Conversão de inputs em lista](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/04_Convers%C3%A3o_de_%20inputs_em_lista/main.py)
-	* [Conversão de inputs em lista condicional](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/05_Convers%C3%A3o_de_inputs_em_lista_condicional/main.py)
+	* [Quantidade de inputs e lista condicionada](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/05_Quantidade_de_inputs_e_lista_condicionada/main.py)
 </details>
