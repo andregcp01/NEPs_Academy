@@ -10,7 +10,6 @@
 * [Sexto Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/06_Sexto_Programa/main.py)
 * [Sétimo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/07_S%C3%A9timo_Programa/main.py)
 * [Oitavo Programa](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/08_Oitavo_Programa/main.py)
-* []()
 
 ## Exercícios de Programação :white_check_mark:
 
@@ -32,7 +31,6 @@
 	* [Lâmpadas](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/15_L%C3%A2mpadas/main.py)
 	* [Repetir x Vezes](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/16_Repetir_x_vezes/main.py)
 	* [Área da Circunferência](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/17_%C3%81rea_da_circunfer%C3%AAncia/main.py)
-	* []()
 </details>
 
 ## Questões personalizadas :bomb:
@@ -43,5 +41,4 @@
 	* [A maior, menor ou igual a B](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/03_A_maior_menor_ou_igual_B/main.py)
 	* [Conversão de inputs em lista](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/04_Convers%C3%A3o_de_%20inputs_em_lista/main.py)
 	* [Conversão de inputs em lista condicional](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Quest%C3%B5es_Personalizadas/Python/05_Convers%C3%A3o_de_inputs_em_lista_condicional/main.py)
-	* []()
 </details>
