@@ -33,7 +33,7 @@
 	* [Área da circunferência](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/17_%C3%81rea_da_circunfer%C3%AAncia/main.py)
 </details>
 
-## Questões personalizadas :white_check_mark:
+## Questões personalizadas :bomb:
 
 * Python : <details> <summary> Lista de questões </summary>
 	* [Questão 1]()
