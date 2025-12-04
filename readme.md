@@ -30,3 +30,9 @@
 	* [Prêmio do Milhão](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/14_Pr%C3%AAmio_do_Milh%C3%A3o/main.py)
 	* [Lâmpadas](https://github.com/andregcp01/NEPs_Academy/blob/master/Python_Mastery_Bootcamp/Exerc%C3%ADcios_de_Programa%C3%A7%C3%A3o/Python/15_L%C3%A2mpadas/main.py)
 </details>
+
+## Questões personalizadas :white_check_mark:
+
+* Python : <details> <summary> Lista de exercícios </summary>
+	* [Questão 1]()
+</details>
