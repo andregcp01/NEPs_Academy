@@ -4,7 +4,9 @@ print("que fazia o huehuehue do brasileiro ser tão engraçado na internet, ent�
 print("ela, juntamente com seu pupilo Anderson, fizeram diversas análises e, por fim,")
 print("chegaram a conclusão de que, quando a quantidade de VOGAIS mais a quantidade")
 print("de H superam, ou atingem, os 75 por cento do comprimento da risada, a risada")
-print("é considerada engraçada.")
+print("é considerada engraçada. Faça um programa que imprima S, quando a risada for")
+print("engraçada, e N, quando a risada não for engraçada.")
+print("Restrições: se não há vogal é N")
 
 # dados de entrada
 A = input()
