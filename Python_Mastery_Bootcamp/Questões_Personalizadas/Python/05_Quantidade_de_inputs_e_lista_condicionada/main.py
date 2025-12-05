@@ -17,6 +17,7 @@ if A == Q:
     print("Certo! Mas o que ele comprou?\n")
     for i in range(A):
         I = input()
+        # irá adicionar o novo input a lista
         L.append(I)
         print(L)
     print("")
